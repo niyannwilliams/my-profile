@@ -4,10 +4,8 @@
 Niyann williams:
 <br>
 <br>
-  
-div.b {
-  text-align: left;
-}
+  <text-align: left;>
+
   
 Niyann Williams
 
