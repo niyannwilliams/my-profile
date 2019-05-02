@@ -1,6 +1,5 @@
 <html>
 <head>
-  <h2>-text-jekyll-theme-merlot</h2>
 </td align="center">
 <font face="arial"size"4"color"#ffffff">
 </font>
