@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/niyannwilliams/my-profile/
 <html>
 <head>
 <title>CV</title>
-<body bgcolor="#CDC1C5">
 <center>
 <table width="875"align="center"cellpadding="0"cellspacing="0">
 <tr>
