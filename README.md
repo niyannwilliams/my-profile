@@ -1,11 +1,13 @@
 <html>
 <head>
+    {
     font-size: 10px;
+     }
 <h4>
 <br>
 <br>
 Niyann Williams
-
+<br>
 PERSONAL PROFILE
 <br>
 <br>
