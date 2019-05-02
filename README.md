@@ -1,7 +1,6 @@
 <html>
 <head>
-<header>Hello</header>
-  <h2>w3-text-jekyll-theme-merlot</h2>
+  <h2>-text-jekyll-theme-merlot</h2>
 </td align="center">
 <font face="arial"size"4"color"#ffffff">
 </font>
