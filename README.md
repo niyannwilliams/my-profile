@@ -1,21 +1,7 @@
 <html>
 <head>
 <header>Hello</header>
-  <h2>w3-text-jekyll-theme-merlot</h2></div>
-<center>
-<table width="875"align="center"cellpadding="0"cellspacing="0">
-<tr>
-<td>
-<img.src="logo.jpg"border="5px"width="280"heigth="100"></tr>
-</td>
-</tr>
-</table>
-<br>
-<table width="875"align="center"cellpadding="0"cellspacing"0">
-<H1>
-<B>CV</B>
-<tr>
-<br>
+  <h2>w3-text-jekyll-theme-merlot</h2>
 </td align="center">
 <font face="arial"size"4"color"#ffffff">
 </font>
