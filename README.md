@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/niyannwilliams/my-profile/
 <html>
 <head>
 <title>CV</title>
-  <h2>w3-text-</h2></div>
+  <h2>w3-text-jekyll-theme-merlot</h2></div>
 <center>
 <table width="875"align="center"cellpadding="0"cellspacing="0">
 <tr>
