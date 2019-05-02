@@ -5,13 +5,6 @@
 </td align="center">
 <font face="arial"size"4"color"#ffffff">
 </font>
-</td>
-</tr>
-</table>
-<br>
-<table width="align="center"cellpadding"0"cellspacing"0">
-<tr>
-<td align="center">
 <h3>
 Niyann williams:
 <br>
