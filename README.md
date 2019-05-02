@@ -1,7 +1,5 @@
 <html>
 <head>
-<font face="arial"size"4"color"#ffffff">
-</font>
 <h3>
 Niyann williams:
 <br>
@@ -17,11 +15,11 @@ Email address: niyannwilliam14@gmail.com
 Niyann Williams
 
 CR8 4BY
-
+<br>
 07478 068 800
-
+<br>
 niyannwilliam14@gmail.com
-
+<br>
 
 PERSONAL PROFILE
 <br>
