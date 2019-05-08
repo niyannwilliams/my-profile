@@ -16,7 +16,7 @@ Hi, my name is Niyann Williams student, Currently studying a BTEC Extended Diplo
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="card">
-  <img src="photo.png" alt="John" style="width:100%">
+  <img src="photo.png" alt="Niyann" style="width:100%">
   <h1>John Doe</h1>
   <p class="title">CEO & Founder, Example</p>
   <p>Harvard University</p>
